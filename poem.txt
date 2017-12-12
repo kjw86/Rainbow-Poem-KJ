@@ -12,3 +12,5 @@ Red
 These are the colors of the rainbow.
 And the unicorn.
 Pony
+
+Why do we leav out the horses name?
